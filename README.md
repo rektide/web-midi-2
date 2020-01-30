@@ -1,6 +1,6 @@
 # Specification 'web-midi-2'
 
-This is a repository for web-midi-2. 
+This is a repository for web-midi-2, which hopes to some day extend or complement the current [Web MIDI API](https://webaudio.github.io/web-midi-api/) with support for MIDI 2.0 features.
 
 ## MIDI 2.0 Features
 
